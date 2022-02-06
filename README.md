@@ -1,2 +1,2 @@
 # 1337-Pool-Hunting
-Solving real some of my real world problems.
+Solving some of my real world problems.
